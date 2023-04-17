@@ -143,3 +143,5 @@ printf "%x\n" `stat -c "%s" virt-gicv3.dtb`
 # 0x1efa
 
 ```
+
+For those who want to dive deeper into the project, here's [my page on Notion](https://lofty-windscreen-3e7.notion.site/Roadmap-to-K3T4M1N3-e09a5bb5c6b84e95bcaeaa47eaa234ce) that I filled out while researching and developing everything.
