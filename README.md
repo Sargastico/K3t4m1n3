@@ -1,10 +1,9 @@
 <div align="center">
-  <img src="https://github.com/Sargastico/K3t4m1n3/blob/main/chpic.su_-_tmp_girls_frontline_008.png" width="40%">
+  <img src="https://github.com/Sargastico/K3t4m1n3/blob/main/chpic.su_-_tmp_girls_frontline_008.png" width="30%">
   <h1> K3T4M1N3 </h1>
   <i> ARM Virtual Machine Introspection Playground </i><br>
   <i> >> Xen Type-1 Hypervisor + LibVMI << </b></i>
   <h1></h1>
-  
 
 <div align="left">
 <br>
